@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+html{
+    writing-mode:horizontal-tb;
+}
+.navbar{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;
+    
+}
+
+
+.nav-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    list-style: none;
+    margin-right: 48vw;
+    
+}
+
+.contactus{
+    background-color: blueviolet;
+    height: 5vh;
+    width: 10vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    font-weight: 100;
+    font-size: 1em;
+    border-radius: 5px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cont1{
+    margin-top: 20vh;
+    height: 87vh;
+    width: 40vw;
+    
+  
+}
+.p{
+    font-size: 6em;
+    color: rgb(4, 25, 61);
+}
+span{
+    color: blueviolet;
+}
+
+    
+
+.p2{
+    background-color:blueviolet;
+    height: 5vh;
+    width: 12vw;
+    border-radius: 5px;
+    margin-top: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    
+
+}
+
+
+
+
+
